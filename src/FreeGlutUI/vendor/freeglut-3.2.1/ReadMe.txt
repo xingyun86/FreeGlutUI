@@ -1,0 +1,1 @@
+下载freeglut-3.2.1-cmake.zip,解压到当前目录
